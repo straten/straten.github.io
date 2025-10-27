@@ -1,2 +1,3 @@
 # straten.github.io
-User site
+
+This is the repository for the github pages published at https://straten.github.io/
